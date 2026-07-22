@@ -1,26 +1,26 @@
 {
   "username": "kevinduong0101",
-  "generated_at": "2026-07-22T19:03:47Z",
+  "generated_at": "2026-07-22T19:07:41Z",
   "range": {
     "start": "2025-07-20",
     "end": "2026-07-22"
   },
-  "total_contributions": 1,
-  "active_days": 1,
-  "avg_per_active_day": 1.0,
+  "total_contributions": 120,
+  "active_days": 30,
+  "avg_per_active_day": 4.0,
   "current_streak": {
-    "length": 1,
-    "start": "2026-07-22",
+    "length": 7,
+    "start": "2026-07-16",
     "end": "2026-07-22"
   },
   "longest_streak": {
-    "length": 1,
-    "start": "2026-07-22",
-    "end": "2026-07-22"
+    "length": 9,
+    "start": "2026-06-23",
+    "end": "2026-07-01"
   },
   "best_day": {
-    "date": "2026-07-22",
-    "count": 1
+    "date": "2026-06-23",
+    "count": 14
   },
   "monthly": [
     {
@@ -41,7 +41,7 @@
     },
     {
       "month": "2025-11",
-      "total": 0
+      "total": 3
     },
     {
       "month": "2025-12",
@@ -69,11 +69,11 @@
     },
     {
       "month": "2026-06",
-      "total": 0
+      "total": 69
     },
     {
       "month": "2026-07",
-      "total": 1
+      "total": 48
     }
   ],
   "days": [
@@ -583,7 +583,7 @@
     },
     {
       "date": "2025-11-23",
-      "count": 0
+      "count": 3
     },
     {
       "date": "2025-11-24",
@@ -1407,7 +1407,7 @@
     },
     {
       "date": "2026-06-17",
-      "count": 0
+      "count": 3
     },
     {
       "date": "2026-06-18",
@@ -1415,15 +1415,15 @@
     },
     {
       "date": "2026-06-19",
-      "count": 0
+      "count": 2
     },
     {
       "date": "2026-06-20",
-      "count": 0
+      "count": 5
     },
     {
       "date": "2026-06-21",
-      "count": 0
+      "count": 9
     },
     {
       "date": "2026-06-22",
@@ -1431,39 +1431,39 @@
     },
     {
       "date": "2026-06-23",
-      "count": 0
+      "count": 14
     },
     {
       "date": "2026-06-24",
-      "count": 0
+      "count": 14
     },
     {
       "date": "2026-06-25",
-      "count": 0
+      "count": 3
     },
     {
       "date": "2026-06-26",
-      "count": 0
+      "count": 2
     },
     {
       "date": "2026-06-27",
-      "count": 0
+      "count": 10
     },
     {
       "date": "2026-06-28",
-      "count": 0
+      "count": 4
     },
     {
       "date": "2026-06-29",
-      "count": 0
+      "count": 2
     },
     {
       "date": "2026-06-30",
-      "count": 0
+      "count": 1
     },
     {
       "date": "2026-07-01",
-      "count": 0
+      "count": 1
     },
     {
       "date": "2026-07-02",
@@ -1471,11 +1471,11 @@
     },
     {
       "date": "2026-07-03",
-      "count": 0
+      "count": 2
     },
     {
       "date": "2026-07-04",
-      "count": 0
+      "count": 2
     },
     {
       "date": "2026-07-05",
@@ -1483,11 +1483,11 @@
     },
     {
       "date": "2026-07-06",
-      "count": 0
+      "count": 3
     },
     {
       "date": "2026-07-07",
-      "count": 0
+      "count": 2
     },
     {
       "date": "2026-07-08",
@@ -1495,15 +1495,15 @@
     },
     {
       "date": "2026-07-09",
-      "count": 0
+      "count": 3
     },
     {
       "date": "2026-07-10",
-      "count": 0
+      "count": 2
     },
     {
       "date": "2026-07-11",
-      "count": 0
+      "count": 4
     },
     {
       "date": "2026-07-12",
@@ -1511,11 +1511,11 @@
     },
     {
       "date": "2026-07-13",
-      "count": 0
+      "count": 4
     },
     {
       "date": "2026-07-14",
-      "count": 0
+      "count": 1
     },
     {
       "date": "2026-07-15",
@@ -1523,31 +1523,31 @@
     },
     {
       "date": "2026-07-16",
-      "count": 0
+      "count": 2
     },
     {
       "date": "2026-07-17",
-      "count": 0
+      "count": 2
     },
     {
       "date": "2026-07-18",
-      "count": 0
+      "count": 3
     },
     {
       "date": "2026-07-19",
-      "count": 0
+      "count": 3
     },
     {
       "date": "2026-07-20",
-      "count": 0
+      "count": 3
     },
     {
       "date": "2026-07-21",
-      "count": 0
+      "count": 3
     },
     {
       "date": "2026-07-22",
-      "count": 1
+      "count": 8
     }
   ]
 }
